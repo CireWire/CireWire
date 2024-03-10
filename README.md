@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CireWire
-- 👀 I’m interested in DevOps, machine learning, AI, data analyzing, gamedev, and coding.
+- 👀 I’m interested in DevOps, Finance, Data Analyzing, and Game Dev.
 - Currently coding with Python, C++, and Unity C#
 - 🌱 I’m currently learning on how you pull off that shirt, I love it!
 - 💞️ I’m looking to collaborate on any fun project that I can learn from!
