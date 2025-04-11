@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CireWire
+- 👋 Hi, I’m @CireWire, a food manufacturing inventory analyst
 - 👀 I’m interested in DevOps, Finance, Data Analyzing, and Game Dev.
 - Currently coding with Python, C++, and Unity C#
 - 🌱 I’m currently learning on how you pull off that shirt, I love it!
